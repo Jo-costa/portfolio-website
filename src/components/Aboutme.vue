@@ -14,7 +14,7 @@
           technologies, and
           I am eager to learn even more and apply those skills in a professional environment.
 
-          Outside of my professional interests, I enjoy exercising, playing video games, reading manga and so on.
+          Outside of my professional interests, I enjoy exercising, playing video games, reading and so on.
           <br>
           Thank you for visiting my portfolio, I look forward to connecting with you!
         </p>

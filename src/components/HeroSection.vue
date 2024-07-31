@@ -7,30 +7,29 @@
         <p class="text-red-400 center-paragraph">Hello, my name is </p>
         <h1 class="width-full">Joaldo <span> Costa</span></h1>
         <h3 class=" mb-3 mt-4 width-full">
-          I'm a Web Developer/Software developer
+          I'm a <span class="text-red-400"> Web Developer/Software developer</span>
         </h3>
         <p class="mb-2 text-left align-text">
-          Lorem ipsum dolor sit amet consectetur, adipisicing elit. Maxime
-          cupiditate aut eveniet iste ratione maiores exercitationem in
-          perferendis dolorem animi amet numquam unde reiciendis, facere, quidem
-          quaerat aliquid voluptatum voluptate.
+          Junior Web & Software Developer Ready to Tackle Real-World Challenges.
+          With a solid foundation in modern technologies
+          I am eager to apply my skills to real-world projects and contribute to creative solutions.
         </p>
       </div>
       <div class="img-container">
-        <img class="" src="../assets/profile.jpg" alt="" srcset="" width="" />
+        <img class="" src="../assets/prof.jpeg" alt="" srcset="" width="" />
       </div>
     </div>
     <div class="w-4/5 flex flex-col justify-start m-auto mt-8 text-left align-text md:text-1xl">
       <h3>Tech Stack</h3>
       <div class="icon-container align-text w-2/3 m-auto md:ml-auto lg:ml-0 mt-4 mb-4 grid grid-cols-4 md:flex md:justify-between lg:w-2/3 max-w-2xl">
-        <img class="icon" src="https://skillicons.dev/icons?i=html" alt="HTML5" />
-        <img class="icon" src="https://skillicons.dev/icons?i=css" />
-        <img class="icon" src="https://skillicons.dev/icons?i=javascript" />
-        <img class="icon" src="https://skillicons.dev/icons?i=vue" />
-        <img class="icon" src="https://skillicons.dev/icons?i=nodejs" />
-        <img class="icon" src="https://skillicons.dev/icons?i=aws" />
-        <img class="icon" src="https://skillicons.dev/icons?i=java" />
-        <img class="icon" src="https://skillicons.dev/icons?i=mysql" />
+        <img class="icon" title="HTML" src="https://skillicons.dev/icons?i=html" alt="HTML5" />
+        <img class="icon" title="CSS" src="https://skillicons.dev/icons?i=css" />
+        <img class="icon" title="JavaScript" src="https://skillicons.dev/icons?i=javascript" />
+        <img class="icon" title="Vue.js" src="https://skillicons.dev/icons?i=vue" />
+        <img class="icon" title="Node.js" src="https://skillicons.dev/icons?i=nodejs" />
+        <img class="icon" title="Amazon Web Services" src="https://skillicons.dev/icons?i=aws" />
+        <img class="icon" title="Java" src="https://skillicons.dev/icons?i=java" />
+        <img class="icon" title="MYSSQL" src="https://skillicons.dev/icons?i=mysql" />
 
       </div>
     </div>

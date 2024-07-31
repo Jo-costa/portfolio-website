@@ -5,6 +5,7 @@
   <About class="scroll-to-fit" ref="aboutmeRefElement"></About>
   <Projects class="scroll-to-fit-projects" ref="projectsRefElement"></Projects>
   <Contact class="scroll-to-fit" ref="contactRefElement"></Contact>
+  
 </template>
 
 

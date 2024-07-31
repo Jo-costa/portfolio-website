@@ -6,7 +6,7 @@
       <div class="w-full grid md:grid-cols-3 gap-4 mb-20">
         <div class="w-full rounded">
           <div class="relative flex justify-center">
-            <img class="rounded w-full"  src="../assets/project-1.png" alt="" >
+            <img class="rounded w-full min-h-[293px]"  src="../assets/project-1.png" alt="" >
             <div class="absolute p-2 bg-black/50 bottom-0 left-0 w-full h-full opacity-1 lg:opacity-0 transition-opacity duration-300 hover:opacity-100">
                 <div class="relative w-full h-full">
                   <div class=" absolute bottom-4 left-2">
@@ -22,14 +22,14 @@
         </div>
         <div class="w-full rounded">
           <div class="relative flex justify-center">
-            <img class="rounded w-full"  src="../assets/project-1.png" alt="" >
+            <img class="rounded w-full min-h-[293px]"  src="../assets/project-2.png" alt="" >
             <div class="absolute p-2 bg-black/50 bottom-0 left-0 w-full h-full opacity-1 lg:opacity-0 transition-opacity duration-300 hover:opacity-100">
                 <div class="relative w-full h-full">
 
                   <div class="absolute bottom-4 left-2">
-                    <h3 class="mb-4 text-left">Price Comparison Website</h3>
-                    <img class="mb-4"  src="https://skillicons.dev/icons?i=html,css,javascript,nodejs,java,mysql" />
-                    <a class="link-to-project bg-black flex justify-between items-center w-40 " href="https://github.com/Jo-costa/Shoe-Comparison-Website"  target="_blank"  >GitHub <img class="ml-2" src="https://skillicons.dev/icons?i=github" width="25" />
+                    <h3 class="mb-4 text-left">Data Visualisation Website</h3>
+                    <img class="mb-4"  src="https://skillicons.dev/icons?i=html,css,vuejs,typescript,aws,lambda,websockets" />
+                    <a class="link-to-project bg-black flex justify-between items-center w-40 " href="https://github.com/Jo-costa/Data-Visualisation-Website"  target="_blank"  >GitHub <img class="ml-2" src="https://skillicons.dev/icons?i=github" width="25" />
                     </a>
                   </div>
                 </div>
@@ -39,14 +39,15 @@
         </div>
         <div class="w-full rounded">
           <div class="relative flex justify-center">
-            <img class="rounded w-full"  src="../assets/project-1.png" alt="" >
+            <img class="rounded w-full min-h-[293px]"  src="../assets/project-3.png" alt="" >
+            <!-- max-h-[293px] -->
             <div class="absolute p-2 bg-black/50 bottom-0 left-0 w-full h-full opacity-1 lg:opacity-0 transition-opacity duration-300 hover:opacity-100">
                 <div class="relative w-full h-full">
 
                   <div class="absolute bottom-4 left-2">
-                    <h3 class="mb-4 text-left">Price Comparison Website</h3>
-                    <img class="mb-4"  src="https://skillicons.dev/icons?i=html,css,javascript,nodejs,java,mysql" />
-                    <a class="link-to-project bg-black flex justify-between items-center w-40 " href="https://github.com/Jo-costa/Shoe-Comparison-Website"  target="_blank"  >GitHub <img class="ml-2" src="https://skillicons.dev/icons?i=github" width="25" />
+                    <h3 class="mb-4 text-left">After School Club</h3>
+                    <img class="mb-4"  src="https://skillicons.dev/icons?i=html,css,vue,nodejs,aws" />
+                    <a class="link-to-project bg-black flex justify-between items-center w-40 " href="https://github.com/Jo-costa/After-School-Website-Frontend"  target="_blank"  >GitHub <img class="ml-2" src="https://skillicons.dev/icons?i=github" width="25" />
                     </a>
                   </div>
                 </div>
