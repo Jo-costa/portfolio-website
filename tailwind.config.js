@@ -10,6 +10,7 @@ export default {
       
     },
     screens: {
+      'smm':'580px',
       'md': '700px',
       'mds':'715px',
       'mdm':'730px',

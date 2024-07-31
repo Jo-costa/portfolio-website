@@ -5,8 +5,8 @@
       <div
         class="intro align-text md:text-1xl flex justify-center align-middle sm:text-center flex-col items-baseline w-3/4 m-auto">
         <p class="text-red-400 center-paragraph">Hello, my name is </p>
-        <h1 class="m-auto">Joaldo <span> Costa</span></h1>
-        <h3 class=" mb-3 mt-4">
+        <h1 class="m-auto lg:ml-0">Joaldo<span> Costa</span></h1>
+        <h3 class="mb-3 mt-4">
           I'm a <span class="text-red-400">Web Developer/Software developer</span>
         </h3>
         <p class="mb-2 text-left align-text">
@@ -21,7 +21,7 @@
     </div>
     <div class="w-4/5 flex flex-col justify-start m-auto mt-8 text-left align-text md:text-1xl">
       <h3>Tech Stack</h3>
-      <div class="icon-container align-text w-2/3 m-auto md:ml-auto lg:ml-0 mt-4 mb-4 grid grid-cols-4 md:flex md:justify-between lg:w-2/3 max-w-2xl">
+      <div class="icon-container align-text w-2/3 m-auto md:ml-auto lg:ml-0 mt-4 mb-4 grid grid-cols-4 gap-4 md:flex md:justify-between lg:w-2/3 max-w-2xl">
         <img class="icon" title="HTML" src="https://skillicons.dev/icons?i=html" alt="HTML5" />
         <img class="icon" title="CSS" src="https://skillicons.dev/icons?i=css" />
         <img class="icon" title="JavaScript" src="https://skillicons.dev/icons?i=javascript" />
