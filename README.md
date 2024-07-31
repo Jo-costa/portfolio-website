@@ -1,7 +1,27 @@
-# Vue 3 + Vite
+# Portfolio Website
 
-This template should help get you started developing with Vue 3 in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+## Overview
+This is my personal portfolio website showcasing my projects, skills, and experience. The website is built using Vue.js
 
-## Recommended IDE Setup
+## Table of Contents
+- [Demo](#demo)
+- [Features](#features)
+- [Technologies Used](#technologies-used)
 
-- [VS Code](https://code.visualstudio.com/) + [Vue - Official](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (previously Volar) and disable Vetur
+## Demo
+You can view the live website [here](https://yourwebsite.com).
+
+## Features
+- Responsive design for various devices
+- Interactive elements and animations
+- Projects showcase with detailed descriptions
+
+## Technologies Used
+- HTML5
+- CSS3
+- Vue.js
+- Deployment (Netlify)
+
+
+## Contact
+If you have any questions, feel free to reach out to me at joaldocosta97@gmail.com
