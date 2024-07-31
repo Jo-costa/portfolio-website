@@ -3,11 +3,11 @@
     <div class="flex flex-col items-center justify-center">
     <div class="rearrange-section w-4/5 flex   items-center justify-between gap-4">
       <div
-        class="intro align-text md:text-1xl flex justify-center align-middle text-left sm:text-center flex-col items-baseline w-3/4 m-auto">
+        class="intro align-text md:text-1xl flex justify-center align-middle sm:text-center flex-col items-baseline w-3/4 m-auto">
         <p class="text-red-400 center-paragraph">Hello, my name is </p>
-        <h1 class="width-full">Joaldo <span> Costa</span></h1>
-        <h3 class=" mb-3 mt-4 width-full">
-          I'm a <span class="text-red-400"> Web Developer/Software developer</span>
+        <h1 class="m-auto">Joaldo <span> Costa</span></h1>
+        <h3 class=" mb-3 mt-4">
+          I'm a <span class="text-red-400">Web Developer/Software developer</span>
         </h3>
         <p class="mb-2 text-left align-text">
           Junior Web & Software Developer Ready to Tackle Real-World Challenges.
@@ -69,11 +69,7 @@ defineProps({
   .img-container {
     order: 1
   }
-  .width-full {
-  width: 100%;
-  display: flex;
-  justify-content: center;
-}
+
 
 }
 
