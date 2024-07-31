@@ -7,6 +7,7 @@ This is my personal portfolio website showcasing my projects, skills, and experi
 - [Demo](#demo)
 - [Features](#features)
 - [Technologies Used](#technologies-used)
+- [Contact](#contact)
 
 ## Demo
 You can view the live website [here](https://yourwebsite.com).
