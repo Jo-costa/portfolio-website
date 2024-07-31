@@ -16,7 +16,7 @@
         </p>
       </div>
       <div class="img-container">
-        <img class="" src="../assets/prof.jpeg" alt="" srcset="" width="" />
+        <img class="" src="../assets/prof.JPEG" alt="" srcset="" width="" />
       </div>
     </div>
     <div class="w-4/5 flex flex-col justify-start m-auto mt-8 text-left align-text md:text-1xl">
