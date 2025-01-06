@@ -10,7 +10,7 @@ This is my personal portfolio website showcasing my projects, skills, and experi
 - [Contact](#contact)
 
 ## Demo
-You can view the live website [here](https://yourwebsite.com).
+You can view the live website [here](https://https://jo-costa.netlify.app/).
 
 ## Features
 - Responsive design for various devices
